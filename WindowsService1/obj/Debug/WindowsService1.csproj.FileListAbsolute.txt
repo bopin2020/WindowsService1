@@ -1,0 +1,8 @@
+D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\obj\Debug\WindowsService1.exe
+D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\obj\Debug\WindowsService1.pdb
+D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache

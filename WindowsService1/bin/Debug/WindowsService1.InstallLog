@@ -1,0 +1,91 @@
+﻿Installing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\red_team_attack\a-bopinCSharp\WindowsServices\WindowsService1\bin\Debug\WindowsService1.exe
