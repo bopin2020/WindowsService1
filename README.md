@@ -9,4 +9,4 @@ Windows Service developed using C#
 
 ## Delete Windows Service
 
-sc delete [service name]
+> sc delete [service name]
